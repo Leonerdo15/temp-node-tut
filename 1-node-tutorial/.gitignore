@@ -1,0 +1,13 @@
+/node_modules
+
+#git init
+#git add .
+#git commit -m "first commit"
+
+#git remote add origin https://github.com/Leonerdo15/temp-node-tut.git
+#git branch -M main
+#git push -u origin main
+
+# cd xxxxxxx, git clone (ssh here)
+
+# (npm instal) if you use a project from git to instal the missing modules
